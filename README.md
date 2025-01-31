@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="5%" />
+ 
+ # Hi👋 , I'm Diwyanjalee Dissanayake
 
-<!--
-**Dissanayake123/Dissanayake123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
 
-Here are some ideas to get you started:
+•⁠  ⁠👨‍🎓 4th year Software engineering Undergraduate at SLIIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•⁠  ⁠📫 How to reach me *diwyatharu098@gmail.com*
+
+<p align="left">
+Connect with me:&nbsp
+<a href="www.linkedin.com/in/diwya-dissanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindu-sandaruwan" height="20" width="20" /></a>&nbsp;
